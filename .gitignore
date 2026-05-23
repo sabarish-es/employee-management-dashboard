@@ -1,0 +1,11 @@
+node_modules
+dist
+.DS_Store
+*.log
+.env
+
+# SQLite database files (your attendance data lives here — back up before deleting!)
+server/data/*.db
+server/data/*.db-journal
+server/data/*.db-wal
+server/data/*.db-shm
