@@ -146,7 +146,7 @@ Every downloaded `.xlsx` file has **three sheets**:
 
 ---
 
-## 🔐 Changing admin credentials
+## 🔐 Changing admin
 
 Edit these two lines at the top of `server/server.js`:
 ```js
