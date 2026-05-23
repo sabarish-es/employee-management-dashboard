@@ -1397,7 +1397,7 @@ export default function App() {
           <AlertCircle size={42} style={{ color: "#EF4444", margin: "0 auto 14px" }} />
           <h2 style={{ color: "#F1F5F9", fontSize: 18, margin: "0 0 8px" }}>Backend Server Not Running</h2>
           <p style={{ color: "#94A3B8", fontSize: 13, margin: "0 0 20px", lineHeight: 1.6 }}>
-            The API server isn't reachable at <code style={{ background: "#0F172A", padding: "2px 6px", borderRadius: 4, color: "#F59E0B" }}>https://employee-management-dashboard-0pb1.onrender.com</code>.
+            The API server isn't reachable at <code style={{ background: "#0F172A", padding: "2px 6px", borderRadius: 4, color: "#F59E0B" }}>https://employee-management-dashboard-2.onrender.com</code>.
             <br /><br />
             Open a terminal in your project folder and run:
           </p>
