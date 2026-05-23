@@ -153,4 +153,4 @@ Edit these two lines at the top of `server/server.js`:
 const ADMIN_USER = "admin";
 const ADMIN_PASS = "admin123";
 ```
-Then restart the server.
+
