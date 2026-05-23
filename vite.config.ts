@@ -19,7 +19,7 @@ export default defineConfig({
   server: {
     proxy: {
       "/api": {
-        target: "http://localhost:4000",
+        target: "https://employee-management-dashboard-0pb1.onrender.com",
         changeOrigin: true,
       },
     },
